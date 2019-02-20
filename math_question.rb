@@ -13,7 +13,8 @@ module Math
     end
 
     def ask_question
-      "What is #{@first_number} plus #{@second_number} multiplied by #{@third_number} divided by #{@fourth_number}? G'luck my dude."
+      "What is #{@first_number} plus #{@second_number} multiplied by #{@third_number} divided by
+      #{@fourth_number}? G'luck my dude."
     end
 
     def correct
