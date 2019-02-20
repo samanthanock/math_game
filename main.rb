@@ -6,4 +6,5 @@ require './player'
 require './math_question'
 require './game_turn'
 
-
+@game = Math: :Game.new
+@game.start
