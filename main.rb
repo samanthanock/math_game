@@ -3,6 +3,7 @@
 
 require './game'
 require './player'
-require './mather_question'
+require './math_question'
+require './game_turn'
 
 
